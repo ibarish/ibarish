@@ -4,9 +4,7 @@
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=barishalici.visitor-badge">
   </div>
   <div class="col-11">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=false&size=30">
-    </a>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&size=35&random=false&width=435&lines=Hello%2C+There!%F0%9F%91%8B;You+can+use+linkedin+to+contact+me." alt="Typing SVG" />
   </div>
 </div>
 
