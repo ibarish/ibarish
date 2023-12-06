@@ -1,4 +1,14 @@
-### Hi there 👋
+<h2>BARIŞ SAMED HALICI</h2>
+<div class="row">
+  <div class="col-1">
+    <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=barishalici.visitor-badge">
+  </div>
+  <div class="col-11">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;Nice+to+meet+you!&center=false&size=30">
+    </a>
+  </div>
+</div>
 
 <!--
 **ibarish/ibarish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
