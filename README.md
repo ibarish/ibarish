@@ -3,7 +3,7 @@
     <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=barishalici.visitor-badge">
   </div>
   <div class="col-11">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&size=35&random=false&width=435&lines=Hello%2C+There!%F0%9F%91%8B;You+can+use+linkedin+to+contact+me." alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=250&size=35&random=false&width=850&lines=Hello%2C+There!%F0%9F%91%8B;You+can+use+linkedin+to+contact+me." alt="Typing SVG" />
   </div>
 </div>
 
