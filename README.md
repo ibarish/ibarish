@@ -9,6 +9,25 @@
 
 ---
 
+👨‍💻 About Me
+
+Hi there! 👋
+
+I'm a passionate software developer with a focus on full-stack development, mobile applications, and backend systems.
+I currently work at a machine manufacturing company where I lead projects that:
+
+Support digital transformation
+
+Integrate with ERP systems
+
+Improve production monitoring and operational efficiency
+
+In addition to my professional work, I enjoy contributing to open-source projects, building useful tools, and sharing knowledge with the developer community.
+
+If you enjoy what I do and want to support my journey, feel free to buy me a coffee ☕ — your support keeps me motivated and helps me continue creating great software!
+
+---
+
 ### 🔗 Let's Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-Follow%20me-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/ibarish)
