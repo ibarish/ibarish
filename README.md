@@ -38,7 +38,7 @@ If you enjoy what I do and want to support my journey, feel free to [buy me a co
 
 ---
 
-[![Buy Me a Coffee](https://raw.githubusercontent.com/ibarish/ibarish/main/assets/images/cover.png)](https://www.https://coff.ee/ibarish)
+[![Buy Me a Coffee](https://raw.githubusercontent.com/ibarish/ibarish/main/assets/images/cover.png)](https://coff.ee/ibarish)
 
 <!--
 **ibarish/ibarish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
